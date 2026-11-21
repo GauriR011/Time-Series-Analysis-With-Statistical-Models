@@ -1,6 +1,6 @@
 # Time Series Analysis with Statistical Models
 
-<p align="center"> <img src="./figures/time-series-thumbnail.png" alt="Thumbnail" width="600"> </p>
+<p align="center"> <img src="./figures/time-series-thumbnail.png" alt="Thumbnail" width="700"> </p>
 
 
 ## Overview
@@ -83,7 +83,7 @@ Implementation and comparison of three fundamental forecasting approaches:
 
 These models establish baseline performance against which more advanced forecasting approaches can be evaluated.
 
-<p align="center"> <img src="./figures/baseline-models.png" alt="Baseline Models" width="400"> </p>
+<p align="center"> <img src="./figures/baseline-models.png" alt="Baseline Models" width="600"> </p>
 
 Since SeasonalNaive has the lowest MAE error, we will choose that as our baseline model to evaluate the performance of the advanced models.
 
