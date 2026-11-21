@@ -59,11 +59,11 @@ Data period	[Start date – End date]
 | Column | Description |
 |---|---|
 | unique_id | Product name |
-| ds | timestamp (Time series column) |
+| ds | Timestamp (Time series column) |
 | y | Total Sales of the Product that day (Target variable) |
 | unit_price | Price of each unit of the product (Exogenous variable)  |
 
-There are around `57000 records` in the dataset, with around `150 unique products`. The the records are from `Jan 2021 to Sept 2022`.
+There are around `57,000 records` in the dataset, with around `150 unique products`. The the records are from `Jan 2021 to Sept 2022`.
 
 The data is recorded on a `daily basis`. We are producing forecasts for the next 7 days (`forecast horizon = 7`) on a daily basis. 
 
