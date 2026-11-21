@@ -31,7 +31,7 @@ conda activate time_series_analysis_env
 ### 2. Install dependencies
 
 ```bash
-pip install statsforecast matplotlib utilsforecast pandas numpy
+pip install -r requirements.txt
 ```
 
 ### 3. Launch the notebook
